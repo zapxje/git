@@ -8,4 +8,6 @@
 - "git status": cho thấy trạng thái dự án, thấy các thay đổi trong dự án.
 - "git add": chuẩn bị lưu lại thời điểm hiện tại của dự án.
 - "git reset": khi đổi ý, muốn lấy lại file để sửa đổi.
-- "git commit": lưu cái các file đã chuẩn bị lên repo
+- "git commit": lưu cái các file đã chuẩn bị lên repo.
+- "git log" & "git log --oneline": xem lịch sử commit.
+- "git checkout" + id commit: quay lại trạng thái có id commit trên.
