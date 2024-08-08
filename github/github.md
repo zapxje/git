@@ -1,4 +1,11 @@
 # Khái niệm Github
 - Github là một nền tảng lưu trữ mã nguồn. Cho phép dễ dàng lưu trữ mã nguồn, quản lý và theo dõi cá nhân hay đội nhóm với nhau.
 
-- Repository(Repo): 
+- Repository (Repo): repo là một kho lưu trữ dự án của chúng ta, nó được xem như một thư mục.
+
+# Commands
+- "git init": biến dự án chúng ta thành một git repository.
+- "git status": cho thấy trạng thái dự án, thấy các thay đổi trong dự án.
+- "git add": chuẩn bị lưu lại thời điểm hiện tại của dự án.
+- "git reset": khi đổi ý, muốn lấy lại file để sửa đổi.
+- "git commit": lưu cái các file đã chuẩn bị lên repo
