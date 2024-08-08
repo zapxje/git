@@ -19,6 +19,7 @@
 - Branch: giúp chúng ra tạo nhánh mới cho phép phát triển tính năng, sửa lỗi hoặc thử nghiệm mà không ảnh hưởng đến mã nguồn chính.
 
 - Conflict: xung đột trong Git xảy ra khi Git không thể tự động kết hợp các thay đổi từ hai hoặc nhiều nhánh khác nhau.
+- Local & Remote
 
 # Commands
 - "git init": biến dự án chúng ta thành một git repository.
