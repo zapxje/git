@@ -4,3 +4,6 @@
 - Local Repository: repo được lưu trong máy tính hiện tại.
 - Remote Repository: repo được lưu trên server.
 
+
+# Commands
+- git push: 
