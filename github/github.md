@@ -6,13 +6,21 @@
 
 - Branch: giúp chúng ra tạo nhánh mới cho phép phát triển tính năng, sửa lỗi hoặc thử nghiệm mà không ảnh hưởng đến mã nguồn chính.
 
+- Conflict: 
+
 # Commands
 - "git init": biến dự án chúng ta thành một git repository.
 - "git status": cho thấy trạng thái dự án, thấy các thay đổi trong dự án.
 - "git add": chuẩn bị lưu lại thời điểm hiện tại của dự án.
 - "git reset": khi đổi ý, muốn lấy lại file để sửa đổi.
 - "git commit": lưu cái các file đã chuẩn bị lên repo.
+
 - "git log" & "git log --oneline": xem lịch sử commit.
 - "git checkout" + {id commit}: quay lại trạng thái có id commit trên.
 - "git checkout" + {branch name}: quay lại thời điểm hiện tại.
+
+- "git branch": cou danh sách các branch.
 - "git checkout -b" + {new branch name}: tạo mới một branch.
+- "git branch -d" + {branch name}: xóa một branch.
+
+- "git merge" + {branch name}: kết hợp hoặc thay đổi một branch khác với branch hiện tại.
