@@ -33,6 +33,7 @@
 - git branch -m <new-branch-name>: Đổi tên branch hiện tại.
 - git branch -d <branch-name>: Xóa một branch trên local.
 - git push -u <remote-name> <new-branch-name>: Đẩy nhánh mới từ local lên remote.
+- git branch <remote-branch-name> <remote-name>/<remote-branch-name>: lấy branch từ remote về local
 - git push <remote-name> --delete <branch-name>: Xóa branch trên remote.
 - git merge <branch-name>: Kết hợp hoặc thay đổi một branch khác với branch hiện tại.
 
