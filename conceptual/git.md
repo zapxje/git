@@ -32,8 +32,11 @@
 - "git checkout" + {id commit}: quay lại trạng thái có id commit trên.
 - "git checkout" + {branch name}: quay lại thời điểm hiện tại.
 
-- "git branch": cou danh sách các branch.
+- "git branch": coi danh sách các branch.
 - "git checkout -b" + {new branch name}: tạo mới một branch.
 - "git branch -d" + {branch name}: xóa một branch.
+- "git push origin --delete" + {branch name}: xóa branch trên remote.
 
 - "git merge" + {branch name}: kết hợp hoặc thay đổi một branch khác với branch hiện tại.
+
+- "git branch -m" + {new branch name}: đổi tên branch hiện tại.
