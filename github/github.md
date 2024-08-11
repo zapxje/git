@@ -5,7 +5,7 @@
 - Remote Repository: repo được lưu trên server.
 
 
-# Commands
-- git remote add <remote_name> <remote_url>
-- git push -u <remote_name> <branch_name>: thiết lập nhánh cục bộ theo dõi nhánh trên remote.
-- git push <remote_name>: 
+    # Commands
+    - git remote add <remote_name> <remote_url>: tạo remote repository trên local
+    - git push -u <remote_name> <branch_name>: thiết lập nhánh cục bộ theo dõi nhánh trên remote.
+    - git push <remote_name>: đẩy các thay đổi từ local lên remote.
