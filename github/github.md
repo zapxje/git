@@ -6,5 +6,5 @@
 
 
 # Commands
-- create
-- git push: 
+- git remote add <remote_name> <remote_url>
+- git push <remote_name>: 
