@@ -40,3 +40,4 @@
 - "git merge" + {branch name}: kết hợp hoặc thay đổi một branch khác với branch hiện tại.
 
 - "git branch -m" + {new branch name}: đổi tên branch hiện tại.
+- hello xin chào mấy cưng
